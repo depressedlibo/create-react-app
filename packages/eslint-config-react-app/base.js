@@ -43,6 +43,5 @@ module.exports = {
   rules: {
     'react/jsx-uses-react': 'warn',
     'react/jsx-uses-vars': 'warn',
-    'react/react-in-jsx-scope': 'error',
   },
 };
